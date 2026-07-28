@@ -13,8 +13,4 @@ View your app in AI Studio: https://ai.studio/apps/e1e08328-a522-42a8-b475-51623
 **Prerequisites:**  Node.js
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+working link- https://v0.app/en23me304004-6655s-projects/chat/ai-complaint-bot-kWBR8g5C3cX
