@@ -1,0 +1,6 @@
+{
+  "name": "AI Complaint Copilot",
+  "description": "Enterprise AI Copilot for extracting, logging, assessing, and managing customer complaints with real-time risk assessment, document OCR, and automated field population.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
